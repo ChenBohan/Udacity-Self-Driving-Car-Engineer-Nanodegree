@@ -12,6 +12,7 @@ Welcome to my Github.
     - [Prediction-Naive-Bayes](https://github.com/ChenBohan/Robotics-Path-Planning-02-Prediction-Naive-Bayes)
     - [Behavior-Planning](https://github.com/ChenBohan/Robotics-Path-Planning-03-Behavior-Planning)
     - [Hybrid-A-Star](https://github.com/ChenBohan/Robotics-Path-Planning-04-Hybrid-A-Star)
+    - [Quintic-Polynomial-Solver](https://github.com/ChenBohan/Robotics-Path-Planning-05-Quintic-Polynomial-Solver)
   - Sensor Fusion
     - [Kalman-Filters](https://github.com/ChenBohan/Robotics-Sensor-Fusion-01-Kalman-Filters)
     - [Lidar-and-Radar-Fusion](https://github.com/ChenBohan/Robotics-Sensor-Fusion-02-Lidar-and-Radar-Fusion)
