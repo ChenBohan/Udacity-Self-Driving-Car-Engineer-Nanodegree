@@ -9,9 +9,11 @@ Welcome to my Github.
     - [Movement-Sequence-Planning](https://github.com/ChenBohan/Robotics-Cooperative-Path-Planning-02-Movement-Sequence-Planning)
     - [Hybrid-A-Star-Trajectory-Planning](https://github.com/ChenBohan/Robotics-Cooperative-Path-Planning-03-Hybrid-A-Star-Trajectory-Planning)
     - [Intro-to-Search](https://github.com/ChenBohan/Robotics-Path-Planning-01-Intro-to-Search)
-    - [Behavior-Planning](https://github.com/ChenBohan/Robotics-Path-Planning-03-Behavior-Planning)
+    - [Behavior-Planning](https://github.com/ChenBohan/Robotics-Path-Planning-03-Behavior-Planning)()
     - [Hybrid-A-Star](https://github.com/ChenBohan/Robotics-Path-Planning-04-Hybrid-A-Star)
     - [Quintic-Polynomial-Solver](https://github.com/ChenBohan/Robotics-Path-Planning-05-Quintic-Polynomial-Solver)
+  - Control
+    - [PID-Control](https://github.com/ChenBohan/Robotics-Control-01-PID-Control)
   - Sensor Fusion
     - [Kalman-Filters](https://github.com/ChenBohan/Robotics-Sensor-Fusion-01-Kalman-Filters)
     - [Lidar-and-Radar-Fusion](https://github.com/ChenBohan/Robotics-Sensor-Fusion-02-Lidar-and-Radar-Fusion)
@@ -20,6 +22,8 @@ Welcome to my Github.
   - ROS
     - [Introduction-to-ROS](https://github.com/ChenBohan/Robotics-ROS-01-Introduction-to-ROS) 
 - Artificial Intelligence
+  - Reinforcement Learning
+    - [Basics](https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics)
   - Deep Learning
     - [Mini-Neural-Network-Library](https://github.com/ChenBohan/AI-Deep-Learning-01-Mini-Neural-Network-Library)
     - [Intro-to-TensorFlow](https://github.com/ChenBohan/AI-Deep-Learning-02-Intro-to-TensorFlow)
