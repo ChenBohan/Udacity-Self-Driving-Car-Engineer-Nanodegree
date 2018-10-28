@@ -9,7 +9,7 @@ Welcome to my Github.
     - [Movement-Sequence-Planning](https://github.com/ChenBohan/Robotics-Cooperative-Path-Planning-02-Movement-Sequence-Planning)
     - [Hybrid-A-Star-Trajectory-Planning](https://github.com/ChenBohan/Robotics-Cooperative-Path-Planning-03-Hybrid-A-Star-Trajectory-Planning)
     - [Intro-to-Search](https://github.com/ChenBohan/Robotics-Path-Planning-01-Intro-to-Search)
-    - [Behavior-Planning](https://github.com/ChenBohan/Robotics-Path-Planning-03-Behavior-Planning)()
+    - [Behavior-Planning](https://github.com/ChenBohan/Robotics-Path-Planning-03-Behavior-Planning)
     - [Hybrid-A-Star](https://github.com/ChenBohan/Robotics-Path-Planning-04-Hybrid-A-Star)
     - [Quintic-Polynomial-Solver](https://github.com/ChenBohan/Robotics-Path-Planning-05-Quintic-Polynomial-Solver)
   - Control
