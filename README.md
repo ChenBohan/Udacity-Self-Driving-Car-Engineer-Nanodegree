@@ -22,6 +22,8 @@ Welcome to my Github.
     - [Motion-Patterns](https://github.com/ChenBohan/Robotics-Prediction-02-Pedestrian-Behavior-Prediction-based-on-Motion-Patterns)
   - ROS
     - [Introduction-to-ROS](https://github.com/ChenBohan/Robotics-ROS-01-Introduction-to-ROS) 
+    - [Communication](https://github.com/ChenBohan/Robotics-ROS-03-Communication) 
+    - [Coordinate-Transform](https://github.com/ChenBohan/Robotics-ROS-04-Coordinate-Transform) 
 - Artificial Intelligence
   - Reinforcement Learning
     - [Basics](https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics)
