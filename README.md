@@ -3,6 +3,10 @@ Welcome to my Github.
 
 ## Catalogue
 
+- LeetCode
+  - Algorithm
+    - [Linked-List](https://github.com/ChenBohan/LeetCode-01-Linked-List)
+    - [String](https://github.com/ChenBohan/LeetCode-02-String)
 - Robotics
   - Path Planing
     - [Topological-Map-Generation](https://github.com/ChenBohan/Robotics-Cooperative-Path-Planning-01-Topological-Map-Generation)
@@ -40,7 +44,3 @@ Welcome to my Github.
     - [Canny-to-Detect-Lane-Lines](https://github.com/ChenBohan/AI-Computer-Vision-01-Canny-to-Detect-Lane-Lines)
     - [Intro-to-CNN](https://github.com/ChenBohan/AI-Computer-Vision-02-Intro-to-CNN)
     - [LeNet](https://github.com/ChenBohan/AI-Computer-Vision-03-LeNet)
-- LeetCode
-  - Algorithm
-    - [Linked-List](https://github.com/ChenBohan/LeetCode-01-Linked-List)
-    - [String](https://github.com/ChenBohan/LeetCode-02-String)
