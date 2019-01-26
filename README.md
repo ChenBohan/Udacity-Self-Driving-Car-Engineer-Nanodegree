@@ -14,6 +14,7 @@ Welcome to my Notebook.
     - [Quintic-Polynomial-Solver](https://github.com/ChenBohan/Robotics-Path-Planning-05-Quintic-Polynomial-Solver)
   - Control
     - [PID-Control](https://github.com/ChenBohan/Robotics-Control-01-PID-Control)
+    - [Lateral-Vehicle-Trajectory-Optimization-Time-Varying-MPC](https://github.com/ChenBohan/Robotics-Control-02-Constrained-Linear-Time-Varying-MPC)
   - Sensor Fusion
     - [Kalman-Filters](https://github.com/ChenBohan/Robotics-Sensor-Fusion-01-Kalman-Filters)
     - [Lidar-and-Radar-Fusion](https://github.com/ChenBohan/Robotics-Sensor-Fusion-02-Lidar-and-Radar-Fusion)
@@ -37,6 +38,7 @@ Welcome to my Notebook.
       - [Planning-Dynamic-Programming](https://github.com/ChenBohan/AI-Reinforcement-Learning-06-Planning-Dynamic-Programming)
       - [Model-Free-Prediction](https://github.com/ChenBohan/AI-Reinforcement-Learning-07-Model-Free-Prediction)
       - [Model-Free-Control](https://github.com/ChenBohan/AI-Reinforcement-Learning-08-Model-Free-Control)
+      - [Value-Function-Approximation](https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation)
     - Book: Reinforcement Learning: An Introduction (by Sutton)
       - [Multi-armed-Bandits](https://github.com/ChenBohan/AI-Reinforcement-Learning-03-Multi-armed-Bandits)
   - Deep Learning
