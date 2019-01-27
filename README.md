@@ -1,5 +1,6 @@
 # Catalogue-of-my-Repositories
-Welcome to my Notebook.
+Welcome to my Study Notes.
+
 
 ## Catalogue
 
