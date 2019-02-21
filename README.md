@@ -13,6 +13,7 @@ Welcome to my Study Notes.
     - [Behavior-Planning](https://github.com/ChenBohan/Robotics-Path-Planning-03-Behavior-Planning)
     - [Hybrid-A-Star](https://github.com/ChenBohan/Robotics-Path-Planning-04-Hybrid-A-Star)
     - [Quintic-Polynomial-Solver](https://github.com/ChenBohan/Robotics-Path-Planning-05-Quintic-Polynomial-Solver)
+    - [CarND-Path-Planning-Project](https://github.com/ChenBohan/Robotics-Path-Planning-05-CarND-Path-Planning-Project)
   - Control
     - [PID-Control](https://github.com/ChenBohan/Robotics-Control-01-PID-Control)
     - [Lateral-Vehicle-Trajectory-Optimization-Time-Varying-MPC](https://github.com/ChenBohan/Robotics-Control-02-Constrained-Linear-Time-Varying-MPC)
