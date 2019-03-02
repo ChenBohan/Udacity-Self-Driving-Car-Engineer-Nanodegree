@@ -19,7 +19,7 @@ Welcome to my Study Notes.
     - [Lateral-Vehicle-Trajectory-Optimization-Time-Varying-MPC](https://github.com/ChenBohan/Robotics-Control-02-Constrained-Linear-Time-Varying-MPC)
   - Sensor Fusion
     - [Kalman-Filters](https://github.com/ChenBohan/Robotics-Sensor-Fusion-01-Kalman-Filters)
-    - [Lidar-and-Radar-Fusion](https://github.com/ChenBohan/Robotics-Sensor-Fusion-02-Lidar-and-Radar-Fusion)
+    - [EKF-Lidar-and-Radar-Fusion](https://github.com/ChenBohan/Robotics-Sensor-Fusion-02-Lidar-and-Radar-Fusion)
   - Prediction
     - [Naive-Bayes](https://github.com/ChenBohan/Robotics-Path-Planning-02-Prediction-Naive-Bayes)
     - [Motion-Patterns](https://github.com/ChenBohan/Robotics-Prediction-02-Pedestrian-Behavior-Prediction-based-on-Motion-Patterns)
