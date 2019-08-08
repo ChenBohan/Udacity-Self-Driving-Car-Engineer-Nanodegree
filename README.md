@@ -4,6 +4,16 @@ Welcome to my Study Notes.
 
 ## Catalogue
 
+- Udacity - Self-Driving Car Nanodegree
+  - Term 1 - Computer Vision and Deep Learning
+    - Lessons
+      - [Canny-to-Detect-Lane-Lines](https://github.com/ChenBohan/AI-Computer-Vision-01-Canny-to-Detect-Lane-Lines)
+    - Projects
+      - [Finding-Lane-Lines-on-the-Road](https://github.com/ChenBohan/CarND-01-Finding-Lane-Lines-on-the-Road)
+
+
+
+
 - Robotics
   - Path Planing
     - [Topological-Map-Generation](https://github.com/ChenBohan/Robotics-Cooperative-Path-Planning-01-Topological-Map-Generation)
