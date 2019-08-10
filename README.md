@@ -8,6 +8,10 @@ Welcome to my Study Notes.
   - Term 1 - Computer Vision and Deep Learning
     - Lessons
       - [Canny-to-Detect-Lane-Lines](https://github.com/ChenBohan/AI-Computer-Vision-01-Canny-to-Detect-Lane-Lines)
+      - [Neural-Network-Basic](https://github.com/ChenBohan/CarND-02-Neural-Network-Basic)
+      - [MiniFlow](https://github.com/ChenBohan/CarND-03-Neural-Network-MiniFlow)
+      - [TensorFlow-Basic](https://github.com/ChenBohan/CarND-04-Deep-Learning-TensorFlow-Basic)
+      - 
     - Projects
       - [Finding-Lane-Lines-on-the-Road](https://github.com/ChenBohan/CarND-01-Finding-Lane-Lines-on-the-Road)
 
