@@ -11,7 +11,8 @@ Welcome to my Study Notes.
       - [Neural-Network-Basic](https://github.com/ChenBohan/CarND-02-Neural-Network-Basic)
       - [MiniFlow](https://github.com/ChenBohan/CarND-03-Neural-Network-MiniFlow)
       - [TensorFlow-Basic](https://github.com/ChenBohan/CarND-04-Deep-Learning-TensorFlow-Basic)
-      - 
+      - [Neural-Networks-Basic](https://github.com/ChenBohan/CarND-05-Deep-Learning-Deep-Neural-Networks-Basic)
+      - [Computer-Vision-CNN-Basic](https://github.com/ChenBohan/CarND-06-Computer-Vision-CNN-Basic)
     - Projects
       - [Finding-Lane-Lines-on-the-Road](https://github.com/ChenBohan/CarND-01-Finding-Lane-Lines-on-the-Road)
 
