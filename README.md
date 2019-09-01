@@ -7,14 +7,16 @@ Welcome to my Study Notes.
 - Udacity - Self-Driving Car Nanodegree
   - Term 1 - Computer Vision and Deep Learning
     - Lessons
-      - [Canny-to-Detect-Lane-Lines](https://github.com/ChenBohan/AI-Computer-Vision-01-Canny-to-Detect-Lane-Lines)
-      - [Neural-Network-Basic](https://github.com/ChenBohan/CarND-02-Neural-Network-Basic)
-      - [MiniFlow](https://github.com/ChenBohan/CarND-03-Neural-Network-MiniFlow)
-      - [TensorFlow-Basic](https://github.com/ChenBohan/CarND-04-Deep-Learning-TensorFlow-Basic)
-      - [Neural-Networks-Basic](https://github.com/ChenBohan/CarND-05-Deep-Learning-Deep-Neural-Networks-Basic)
-      - [Computer-Vision-CNN-Basic](https://github.com/ChenBohan/CarND-06-Computer-Vision-CNN-Basic)
+      - [CarND-01-Computer-Vision-Canny-to-Detect-Lane-Lines](https://github.com/ChenBohan/AI-Computer-Vision-01-Canny-to-Detect-Lane-Lines)
+      - [CarND-02-Neural-Network-Basic](https://github.com/ChenBohan/CarND-02-Neural-Network-Basic)
+      - [CarND-03-Neural-Network-MiniFlow](https://github.com/ChenBohan/CarND-03-Neural-Network-MiniFlow)
+      - [CarND-04-Deep-Learning-TensorFlow-Basic](https://github.com/ChenBohan/CarND-04-Deep-Learning-TensorFlow-Basic)
+      - [CarND-05-Deep-Learning-Deep-Neural-Networks-Basic](https://github.com/ChenBohan/CarND-05-Deep-Learning-Deep-Neural-Networks-Basic)
+      - [CarND-06-Computer-Vision-CNN-Basic](https://github.com/ChenBohan/CarND-06-Computer-Vision-CNN-Basic)
+      - [CarND-07-Deep-Learning-Keras-Basic](https://github.com/ChenBohan/CarND-07-Deep-Learning-Keras-Basic)
+      - [CarND-08-Deep-Learning-Transfer-Learning](https://github.com/ChenBohan/CarND-08-Deep-Learning-Transfer-Learning)
     - Projects
-      - [Finding-Lane-Lines-on-the-Road](https://github.com/ChenBohan/CarND-01-Finding-Lane-Lines-on-the-Road)
+      - [CarND-Project-01-Finding-Lane-Lines-on-the-Road](https://github.com/ChenBohan/CarND-01-Finding-Lane-Lines-on-the-Road)
 
 
 
