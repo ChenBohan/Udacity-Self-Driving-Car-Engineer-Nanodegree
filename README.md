@@ -18,6 +18,7 @@ Welcome to my Study Notes.
     - Projects
       - [CarND-Project-01-Finding-Lane-Lines-on-the-Road](https://github.com/ChenBohan/CarND-01-Finding-Lane-Lines-on-the-Road)
       - [CarND-Project-02-Traffic-Sign-Classifier](https://github.com/ChenBohan/CarND-Project-02-Traffic-Sign-Classifier)
+  - Term 2 - Sensor Fusion, Localization, and Control
 
 
 
