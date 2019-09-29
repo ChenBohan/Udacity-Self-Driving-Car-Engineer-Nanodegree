@@ -19,7 +19,12 @@ Welcome to my Study Notes.
       - [CarND-Project-01-Finding-Lane-Lines-on-the-Road](https://github.com/ChenBohan/CarND-01-Finding-Lane-Lines-on-the-Road)
       - [CarND-Project-02-Traffic-Sign-Classifier](https://github.com/ChenBohan/CarND-Project-02-Traffic-Sign-Classifier)
   - Term 2 - Sensor Fusion, Localization, and Control
-
+    - Lessons
+        - [CarND-09-Path-Planning-Two-Dimensional-Robot-Motion-and-Trigonometry](https://github.com/ChenBohan/CarND-09-Path-Planning-Two-Dimensional-Robot-Motion-and-Trigonometry)
+        - [CarND-10-Sensor-Fusion-Kalman-Filters](https://github.com/ChenBohan/CarND-10-Sensor-Fusion-Kalman-Filters)
+        - [CarND-11-Sensor-Fusion-Lidar-and-Radar-Fusion-with-Kalman-Filters](https://github.com/ChenBohan/CarND-11-Sensor-Fusion-Lidar-and-Radar-Fusion-with-Kalman-Filters)
+    - Projects
+        - [CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter](https://github.com/ChenBohan/CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter)
 
 
 
@@ -36,10 +41,6 @@ Welcome to my Study Notes.
   - Control
     - [PID-Control](https://github.com/ChenBohan/Robotics-Control-01-PID-Control)
     - [Lateral-Vehicle-Trajectory-Optimization-Time-Varying-MPC](https://github.com/ChenBohan/Robotics-Control-02-Constrained-Linear-Time-Varying-MPC)
-  - Sensor Fusion
-    - [Kalman-Filters](https://github.com/ChenBohan/Robotics-Sensor-Fusion-01-Kalman-Filters)
-    - [EKF-Lidar-and-Radar-Fusion](https://github.com/ChenBohan/Robotics-Sensor-Fusion-02-Lidar-and-Radar-Fusion)
-    - [Unscented-Kalman-Filter](https://github.com/ChenBohan/Robotics-Sensor-Fusion-03-UKF-Unscented-Kalman-Filter)
   - Prediction
     - [Naive-Bayes](https://github.com/ChenBohan/Robotics-Path-Planning-02-Prediction-Naive-Bayes)
     - [Motion-Patterns](https://github.com/ChenBohan/Robotics-Prediction-02-Pedestrian-Behavior-Prediction-based-on-Motion-Patterns)
