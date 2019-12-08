@@ -23,6 +23,8 @@ Welcome to my Study Notes.
         - [CarND-09-Path-Planning-Two-Dimensional-Robot-Motion-and-Trigonometry](https://github.com/ChenBohan/CarND-09-Path-Planning-Two-Dimensional-Robot-Motion-and-Trigonometry)
         - [CarND-10-Sensor-Fusion-Kalman-Filters](https://github.com/ChenBohan/CarND-10-Sensor-Fusion-Kalman-Filters)
         - [CarND-11-Sensor-Fusion-Lidar-and-Radar-Fusion-with-Kalman-Filters](https://github.com/ChenBohan/CarND-11-Sensor-Fusion-Lidar-and-Radar-Fusion-with-Kalman-Filters)
+        - [CarND-13-Localization-Bayes-Markov-Localization](https://github.com/ChenBohan/CarND-13-Localization-Bayes-Markov-Localization)
+        - [CarND-18-Motion-Planning-MPC-Model-Predictive-Control](https://github.com/ChenBohan/CarND-18-Motion-Planning-MPC-Model-Predictive-Control)
     - Projects
         - [CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter](https://github.com/ChenBohan/CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter)
 
