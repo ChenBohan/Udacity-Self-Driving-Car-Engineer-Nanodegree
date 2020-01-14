@@ -24,7 +24,7 @@ Welcome to my Study Notes.
         - [CarND-10-Sensor-Fusion-Kalman-Filters](https://github.com/ChenBohan/CarND-10-Sensor-Fusion-Kalman-Filters)
         - [CarND-11-Sensor-Fusion-Lidar-and-Radar-Fusion-with-Kalman-Filters](https://github.com/ChenBohan/CarND-11-Sensor-Fusion-Lidar-and-Radar-Fusion-with-Kalman-Filters)
         - [CarND-13-Localization-Bayes-Markov-Localization](https://github.com/ChenBohan/CarND-13-Localization-Bayes-Markov-Localization)
-        - [CarND-14-Motion-Model-Bicycle-Model](https://github.com/ChenBohan/CarND-14-Motion-Model-Bicycle-Model)
+        - [CarND-14-Motion-Model](https://github.com/ChenBohan/CarND-14-Motion-Model-Bicycle-Model)
         - [CarND-17-Motion-Planning-PID-Control](https://github.com/ChenBohan/CarND-17-Motion-Planning-PID-Control)
         - [CarND-18-Motion-Planning-MPC-Model-Predictive-Control](https://github.com/ChenBohan/CarND-18-Motion-Planning-MPC-Model-Predictive-Control)
     - Projects
