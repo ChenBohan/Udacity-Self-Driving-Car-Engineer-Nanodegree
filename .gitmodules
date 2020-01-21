@@ -1,0 +1,3 @@
+[submodule "CarND-01-Computer-Vision-Canny-to-Detect-Lane-Lines"]
+	path = CarND-01-Computer-Vision-Canny-to-Detect-Lane-Lines
+	url = https://github.com/ChenBohan/CarND-01-Computer-Vision-Canny-to-Detect-Lane-Lines.git
