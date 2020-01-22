@@ -1,6 +1,4 @@
-# Catalogue-of-my-Repositories
-Welcome to my Study Notes.
-
+# Udacity-Self-Driving-Car-Engineer-Nanodegree
 
 ## Catalogue
 
