@@ -1,6 +1,6 @@
 # Udacity-Self-Driving-Car-Engineer-Nanodegree
 
-## Catalogue
+## Content
 
 - Udacity - Self-Driving Car Nanodegree
   - Term 1 - Computer Vision and Deep Learning
@@ -28,3 +28,6 @@
     - Projects
         - [CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter](https://github.com/ChenBohan/CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter)
 
+## Certificate
+
+<img src="/certificate.png" width = "50%" height = "50%" div align=center />
