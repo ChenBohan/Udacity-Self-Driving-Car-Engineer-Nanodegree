@@ -52,3 +52,9 @@
 [submodule "CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter"]
 	path = CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter
 	url = https://github.com/ChenBohan/CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter.git
+[submodule "CarND-Project-10-MPC-Model-Predictive-Control"]
+	path = CarND-Project-10-MPC-Model-Predictive-Control
+	url = https://github.com/ChenBohan/CarND-Project-10-MPC-Model-Predictive-Control.git
+[submodule "CarND-Project-9-PID-Control"]
+	path = CarND-Project-9-PID-Control
+	url = https://github.com/ChenBohan/CarND-Project-9-PID-Control.git
