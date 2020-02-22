@@ -1,3 +1,54 @@
 [submodule "CarND-01-Computer-Vision-Canny-to-Detect-Lane-Lines"]
 	path = CarND-01-Computer-Vision-Canny-to-Detect-Lane-Lines
 	url = https://github.com/ChenBohan/CarND-01-Computer-Vision-Canny-to-Detect-Lane-Lines.git
+[submodule "CarND-02-Neural-Network-Basic"]
+	path = CarND-02-Neural-Network-Basic
+	url = https://github.com/ChenBohan/CarND-02-Neural-Network-Basic.git
+[submodule "CarND-03-Neural-Network-MiniFlow"]
+	path = CarND-03-Neural-Network-MiniFlow
+	url = https://github.com/ChenBohan/CarND-03-Neural-Network-MiniFlow.git
+[submodule "CarND-04-Deep-Learning-TensorFlow-Basic"]
+	path = CarND-04-Deep-Learning-TensorFlow-Basic
+	url = https://github.com/ChenBohan/CarND-04-Deep-Learning-TensorFlow-Basic.git
+[submodule "CarND-05-Deep-Learning-Deep-Neural-Networks-Basic"]
+	path = CarND-05-Deep-Learning-Deep-Neural-Networks-Basic
+	url = https://github.com/ChenBohan/CarND-05-Deep-Learning-Deep-Neural-Networks-Basic.git
+[submodule "CarND-06-Computer-Vision-CNN-Basic"]
+	path = CarND-06-Computer-Vision-CNN-Basic
+	url = https://github.com/ChenBohan/CarND-06-Computer-Vision-CNN-Basic.git
+[submodule "CarND-07-Deep-Learning-Keras-Basic"]
+	path = CarND-07-Deep-Learning-Keras-Basic
+	url = https://github.com/ChenBohan/CarND-07-Deep-Learning-Keras-Basic.git
+[submodule "CarND-08-Deep-Learning-Transfer-Learning"]
+	path = CarND-08-Deep-Learning-Transfer-Learning
+	url = https://github.com/ChenBohan/CarND-08-Deep-Learning-Transfer-Learning.git
+[submodule "CarND-Project-01-Finding-Lane-Lines-on-the-Road"]
+	path = CarND-Project-01-Finding-Lane-Lines-on-the-Road
+	url = https://github.com/ChenBohan/CarND-Project-01-Finding-Lane-Lines-on-the-Road.git
+[submodule "CarND-Project-02-Traffic-Sign-Classifier"]
+	path = CarND-Project-02-Traffic-Sign-Classifier
+	url = https://github.com/ChenBohan/CarND-Project-02-Traffic-Sign-Classifier.git
+[submodule "CarND-09-Path-Planning-Two-Dimensional-Robot-Motion-and-Trigonometry"]
+	path = CarND-09-Path-Planning-Two-Dimensional-Robot-Motion-and-Trigonometry
+	url = https://github.com/ChenBohan/CarND-09-Path-Planning-Two-Dimensional-Robot-Motion-and-Trigonometry.git
+[submodule "CarND-10-Sensor-Fusion-Kalman-Filters"]
+	path = CarND-10-Sensor-Fusion-Kalman-Filters
+	url = https://github.com/ChenBohan/CarND-10-Sensor-Fusion-Kalman-Filters.git
+[submodule "CarND-11-Sensor-Fusion-Lidar-and-Radar-Fusion-with-Kalman-Filters"]
+	path = CarND-11-Sensor-Fusion-Lidar-and-Radar-Fusion-with-Kalman-Filters
+	url = https://github.com/ChenBohan/CarND-11-Sensor-Fusion-Lidar-and-Radar-Fusion-with-Kalman-Filters.git
+[submodule "CarND-13-Localization-Bayes-Markov-Localization"]
+	path = CarND-13-Localization-Bayes-Markov-Localization
+	url = https://github.com/ChenBohan/CarND-13-Localization-Bayes-Markov-Localization.git
+[submodule "CarND-14-Motion-Model"]
+	path = CarND-14-Motion-Model
+	url = https://github.com/ChenBohan/CarND-14-Motion-Model.git
+[submodule "CarND-17-Motion-Planning-PID-Control"]
+	path = CarND-17-Motion-Planning-PID-Control
+	url = https://github.com/ChenBohan/CarND-17-Motion-Planning-PID-Control.git
+[submodule "CarND-18-Motion-Planning-MPC-Model-Predictive-Control"]
+	path = CarND-18-Motion-Planning-MPC-Model-Predictive-Control
+	url = https://github.com/ChenBohan/CarND-18-Motion-Planning-MPC-Model-Predictive-Control.git
+[submodule "CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter"]
+	path = CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter
+	url = https://github.com/ChenBohan/CarND-Project-06-Bicycle-Tracker-with-Extended-Kalman-Filter.git
